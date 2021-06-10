@@ -1,5 +1,3 @@
 <hr>
-<img src="https://www.holbertonschool.com/holberton-logo.png">
-<hr>
-<b>This fils is mandatory in all ALX school projects</b>
+<img src="https://techcrunch.com/wp-content/uploads/2015/11/holberton-logo-horizontal.jpg?w=730&crop=1">
 <hr>

@@ -1,4 +1,4 @@
-<hr>
+5<hr>
 <h2># Shell, init files, variables and expansions</h2>
 <ul>
 <li> 0 - Create a script that creates an alias. Name: ls, Value: rm *</li>

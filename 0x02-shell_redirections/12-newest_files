@@ -1,2 +1,2 @@
 #!/bin/bash
-qls -t | head
+ls -t | head
